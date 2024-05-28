@@ -1,0 +1,10 @@
+{
+  "esversion": 8,
+  "node": true,
+  "browser": true,
+  "globals": {
+    "document": true,
+    "navigator": true,
+    "window": true
+  }
+}
